@@ -13,11 +13,19 @@ Changes will be ongoing.
 base >= 0.13.0
 
 [pycoalprocessing](https://mods.factorio.com/mod/pycoalprocessing) >= 1.0.15
+
 [pyrawores](https://mods.factorio.com/mod/pyrawores) >= 1.1.11
+
 [pyhightech](https://mods.factorio.com/mod/pyhightech) >= 1.0.14
+
 [pyfusionenergy](https://mods.factorio.com/mod/pyfusionenergy) >= 1.1.3
+
 [pyindustry](https://mods.factorio.com/mod/pyindustry) >= 1.0.14
 
 ## Optional Dependencies
 
 Coming soon...
+
+## Changlog
+
+Nothing yet.
