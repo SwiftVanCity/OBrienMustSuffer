@@ -1,0 +1,16 @@
+{
+	"name": "ObrienMustSuffer",
+	"version": "0.0.1",
+	"factorio_version": "0.16",
+	"title": "O'Brien Must Suffer!",
+	"author": "swiftvancity",
+	"contact": "",
+	"homepage": "",
+	"description": "Casual gaming to logistic nightmare fuelled panic attacks. O'Brian Must Suffer aims to bring Pyanodons, Angels, and Bob's Mods into one neat little package giving you the ability to crank up the complexity in the Mod Options menu. This mod assumes you have the entire Pyanodons suite installed.",
+	"dependencies": [
+		"base >= 0.13.0",
+		"pycoalprocessing >= 1.0.15",
+		"?angelsrefining >= 0.9.14",
+		"?angelspetrochem >= 0.7.12"
+	]
+}
